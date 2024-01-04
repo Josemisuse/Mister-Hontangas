@@ -2,7 +2,7 @@
 Página web del Hontangas
 
 Añadir opciones de nominaciones
-  - Ganador puntos Mister
+  	- Ganador puntos Mister
 	- Ganador de la Liga
 	- Ganador Verano
 	- Ganador Invierno
